@@ -1,0 +1,3 @@
+项目使用keep-alive时，可搭配组件name进行缓存过滤
+DOM做递归组件时需要调用自身name
+vue-devtools调试工具里显示的组见名称是由vue中组件name决定的
